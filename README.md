@@ -1,4 +1,4 @@
-### Olá!!! Eu sou o Lucas Oliveira, desenvolvedor Front-end jr.
+### Olá!!! Eu sou o Lucas Oliveira, desenvolvedor Front-end jr.😆
 <div align="center">
   <a href="https://github.com/lucas-projetos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucas-projetos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
